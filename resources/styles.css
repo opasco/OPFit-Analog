@@ -1,0 +1,20 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+.background {
+  viewport-fill: black;
+}
+
+#myClockTxt {
+  font-size: 40;
+  font-family: Seville-Book-Condensed;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+20;
+  fill: white;
+}
